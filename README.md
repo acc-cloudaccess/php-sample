@@ -3,3 +3,4 @@
 # php-sample3
 # php-sample4
 # php-sample5
+# php-sample6
